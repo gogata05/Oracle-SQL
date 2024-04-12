@@ -1,0 +1,12 @@
+# Ignore settings directories created by SQL Developer
+.sqldeveloper/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore other potential sensitive data
+*.p12
+connections.xml
