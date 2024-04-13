@@ -2,7 +2,7 @@
  
 ### 🎓 Course Link - [Here](https://www.youtube.com/watch?v=lzzAXsySxx4&list=PLZDOU071E4v6bO3cXRZ8WYXIWHN2JsrnU&index=1)
 
-Welcome to the Oracle-SQL course! This course will equip participants with the knowledge and skills required to work with Oracle Database. Throughout this course, you will delve into various aspects of creating,Viewing,editing and getting data from the database.
+Welcome to the Oracle-SQL course! This course will equip participants with the knowledge and skills required to work with Oracle Database. Throughout this course, you will delve into various aspects of creating,viewing,editing and getting data from the database.
  
 #### Skills You Will Gain
 
@@ -11,6 +11,7 @@ Welcome to the Oracle-SQL course! This course will equip participants with the k
 - Add of change data in a database
 - Delete data
 - Create new tables
+- Working with Oracle SQL Developer and Oracle Express Edition 
 
 ### About the Course
 
